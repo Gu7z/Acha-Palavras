@@ -60,7 +60,7 @@ function criaMat(x, y, bool){
   return matriz
 }
 
-//Func para zerar a matriz toda as vezes que rodar o codigo procurando
+//Func para zerar as variaveis
 function zerando(){
   contador = 0
   resultado = ""
